@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/blacercoin_bg.qm</file>
+        <file alias="ca">locale/blacercoin_ca.qm</file>
+        <file alias="cs">locale/blacercoin_cs.qm</file>
+        <file alias="da">locale/blacercoin_da.qm</file>
+        <file alias="de">locale/blacercoin_de.qm</file>
+        <file alias="en">locale/blacercoin_en.qm</file>
+        <file alias="en_US">locale/blacercoin_en_US.qm</file>
+        <file alias="eo">locale/blacercoin_eo.qm</file>
+        <file alias="es">locale/blacercoin_es.qm</file>
+        <file alias="es_ES">locale/blacercoin_es_ES.qm</file>
+        <file alias="fi">locale/blacercoin_fi.qm</file>
+        <file alias="fr_FR">locale/blacercoin_fr_FR.qm</file>
+        <file alias="hi_IN">locale/blacercoin_hi_IN.qm</file>
+        <file alias="hr">locale/blacercoin_hr.qm</file>
+        <file alias="hr_HR">locale/blacercoin_hr_HR.qm</file>
+        <file alias="it">locale/blacercoin_it.qm</file>
+        <file alias="ja">locale/blacercoin_ja.qm</file>
+        <file alias="ko_KR">locale/blacercoin_ko_KR.qm</file>
+        <file alias="lt_LT">locale/blacercoin_lt_LT.qm</file>
+        <file alias="nl">locale/blacercoin_nl.qm</file>
+        <file alias="pl">locale/blacercoin_pl.qm</file>
+        <file alias="pt">locale/blacercoin_pt.qm</file>
+        <file alias="pt_BR">locale/blacercoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/blacercoin_ro_RO.qm</file>
+        <file alias="ru">locale/blacercoin_ru.qm</file>
+        <file alias="sk">locale/blacercoin_sk.qm</file>
+        <file alias="sv">locale/blacercoin_sv.qm</file>
+        <file alias="tr">locale/blacercoin_tr.qm</file>
+        <file alias="uk">locale/blacercoin_uk.qm</file>
+        <file alias="vi">locale/blacercoin_vi.qm</file>
+        <file alias="zh_CN">locale/blacercoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/blacercoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
