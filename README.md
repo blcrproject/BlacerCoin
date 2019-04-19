@@ -19,7 +19,7 @@ Installation of libraries (using root user):
 Cloning the repository and compiling (use any user with the sudo group):
 
     cd
-    git clone https://github.com/blacer/BlacerCoin.git
+    git clone https://github.com/blcrproject/BlacerCoin.git
     cd BlacerCoin
     ./autogen.sh
     ./configure
