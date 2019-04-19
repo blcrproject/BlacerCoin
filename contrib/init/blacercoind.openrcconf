@@ -1,0 +1,26 @@
+# /etc/conf.d/blacercoind: config file for /etc/init.d/blacercoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/blacercoin/blacercoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/blacercoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/blacercoind.pid"
+
+# Where to write blacercoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/blacercoind"
+
+# User and group to own blacercoind process
+#BITCOIND_USER="blacercoin"
+#BITCOIND_GROUP="blacercoin"
+
+# Path to blacercoind executable
+#BITCOIND_BIN="/usr/bin/blacercoind"
+
+# Nice value to run blacercoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
