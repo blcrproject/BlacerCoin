@@ -2,7 +2,7 @@ BlacerCoin Core (fork of PIVX) integration/staging repository
 ======================================
 
 
-It is recommended [use the shell script](https://github.com/blacer/lgs-install) to install a BlacerCoin Masternode on a Linux server running Ubuntu 14.04, 16.04, 18.04
+It is recommended [use the shell script](https://github.com/blcrproject/lgs-install) to install a BlacerCoin Masternode on a Linux server running Ubuntu 14.04, 16.04, 18.04
 
 ***
 
