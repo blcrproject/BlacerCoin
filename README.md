@@ -45,7 +45,7 @@ Demon status:
 
 All binaries for different operating systems, you can download in the releases repository:
 
-https://github.com/blacer/BlacerCoin/releases
+https://github.com/blcrproject/BlacerCoin/releases
 
 P2P port: 24433, RPC port: 24432
 -
